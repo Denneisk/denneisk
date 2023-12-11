@@ -1,4 +1,4 @@
-Official [Wiremod](/wiremod/wire) stalker and chief dumb suggestion maker.
+Official [Wiremod](https://github.com/wiremod/wire) stalker and chief dumb suggestion maker.
 ____
 Read the [Bible](https://www.gutenberg.org/cache/epub/10/pg10-images.html#The_Gospel_According_to_Saint_Matthew) and [GNU philosophy](https://www.gnu.org/philosophy/philosophy.html)!
 ____
@@ -6,7 +6,7 @@ ____
 Currently fixated on Lua coding in Garry's Mod. Feel free to ask me for help!
 ____
 
-Big fan and self-proclaimed pioneer of [Expression 2](/wiremod/wire/wiki/Expression-2). This portfolio looks bad, but in the future it'll be a lot cooler:
+Big fan and self-proclaimed pioneer of [Expression 2](https://github.com/wiremod/wire/wiki/Expression-2). This portfolio looks bad, but in the future it'll be a lot cooler:
 - [Five Nights at Garry's](https://steamcommunity.com/sharedfiles/filedetails/?id=2891811297) - Faithful FNAF clone that's contained entirely within a Gmod save and requires only Wiremod and one other addon.
 - Secret project #1
 - Secret project #2
@@ -14,7 +14,7 @@ Big fan and self-proclaimed pioneer of [Expression 2](/wiremod/wire/wiki/Express
 *If you are a Gmod save/dupe creator who likes making games using E2, please contact me!*
 ____
 
-Former RimWorld (C#) modder on indefinite hiatus. I love [Harmony](/pardeike/Harmony)!
+Former RimWorld (C#) modder on indefinite hiatus. I love [Harmony](https://github.com/pardeike/Harmony)!
 ____
 <details><summary>Other langs+history</summary>
   
