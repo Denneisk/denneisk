@@ -3,13 +3,18 @@ ____
 Read the [Bible](https://www.gutenberg.org/cache/epub/10/pg10-images.html#The_Gospel_According_to_Saint_Matthew) and [GNU philosophy](https://www.gnu.org/philosophy/philosophy.html) and [*Programming in Lua*](https://www.lua.org/pil/contents.html)!
 ____
 
-Currently fixated on Lua and coding in Garry's Mod. Feel free to ask me for help!
+Currently dreaming.
 ____
 
-Big fan and self-proclaimed pioneer of [Expression 2](https://github.com/wiremod/wire/wiki/Expression-2). This portfolio looks bad, but in the future it'll be a lot cooler:
-- [Five Nights at Garry's](https://steamcommunity.com/sharedfiles/filedetails/?id=2891811297) - Faithful FNAF clone that's contained entirely within a Gmod save and requires only Wiremod and one other addon.
-- Secret project #1
-- Secret project #2
+Big fan and self-proclaimed pioneer of [Expression 2](https://github.com/wiremod/wire/wiki/Expression-2). This portfolio looks bad, but in a far, far future it'll be a lot cooler:
+<details><summary>Expression 2 projects</summary>
+  
+- [Five Nights at Garry's](https://steamcommunity.com/sharedfiles/filedetails/?id=2891811297) - FNAF clone that's contained entirely within a Gmod save and requires only Wiremod and one other addon.
+- Secret project #1 (FNAG2)
+- Secret project #2 (Possibly cancelled puzzle game)
+- [FNAST](https://steamcommunity.com/sharedfiles/filedetails/?id=3209160487) - Joke FNAF clone with an ending that I was really proud of. Watch the video past 4:23.
+
+</details>
 
 *If you are a Gmod save/dupe creator who likes making games using E2, please contact me!*
 ____
@@ -19,11 +24,11 @@ ____
 <details><summary>Other langs+history</summary>
   
 - Apparently I once wrote a bunch of Typescript (but mostly styled like Javascript) on some Microsoft drag and drop game coding thing. It sucked a lot but I put too much effort in it.
-- I did Java in college and much prefer C#.
+- I did Java in college, but I much prefer C#.
 - I did C and C-styled C++ for an amateurish stint in high school–early college—not very good at it, but I'd love to spend more time in it.
 - I am fond of CIL and to a lesser extent x86 assembly.
-- I started with Lua on Roblox, actually. I hated it back then. I couldn't understand it. Mentally incapable; logic was simply impossible for me to comprehend. Now? Well, I ~~like~~ löve Lua, now!~~, let's just leave it at that.~~
-- There was some game jam where I did a smidge of GDScript for a friend.
+- I started with Lua on Roblox, actually. I hated it back then. I couldn't understand it. Mentally incapable; logic was simply impossible for me to comprehend. Now? Well, I löve Lua, now!
+- There was some game jam where I did a smidge of GDScript for a friend. Every now and then I'll touch GDScript again when I feel like I'll make something in Godot (and then I don't).
 - I also touched some C# in making an AR game for college. It sucked hard and never went anywhere, mostly my fault.
 - Micro-optimizations are beautiful.
 </details>
